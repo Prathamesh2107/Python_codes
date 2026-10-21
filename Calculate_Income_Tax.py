@@ -1,8 +1,8 @@
 income=int(input("Enter Annual Income: "))
-if income<=300000:
+if income<=400000:
   tax=income*0/100
   print("Tax Amount: Rs.",tax)
-elif income>300000 and income<=600000:
+elif income>400000 and income<=800000:
   tax=income*5/100
   print("Tax Amount: Rs.",tax)
 else:
