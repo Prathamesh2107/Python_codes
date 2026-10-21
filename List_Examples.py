@@ -1,6 +1,4 @@
-a=[32,36,54,74,48,38]
-a.append(99)
-a.pop(3)
-a.insert(3,100)
-print(a.index(54))
-print(a)
+RCB=["Virat", "Abd", "Rajat", "Krunal", "Jitu", "Siraj", "Bhuvi", "Yuzi", "Devdutt", "Salty", "Timmy"]
+RCB[3]="Virat"
+RCB.remove("Virat")
+print(RCB)
