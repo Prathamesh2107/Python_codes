@@ -1,7 +1,7 @@
 admin=(input("Enter the username="))
 Pass=int(input("Enter the Password="))
 username="prathamesh"
-password=12345
+password=2107
 if username==admin and password==Pass:
 
   print("""
