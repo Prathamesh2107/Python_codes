@@ -1,9 +1,9 @@
 salary = float(input("Enter salary: "))
 years = int(input("Enter years of service: "))
 
-if years >= 10:
+if years >= 5:
   percentage = 20
-elif years >= 5:
+elif years >= 2:
   percentage = 10
 else:
   percentage = 5
