@@ -1,8 +1,8 @@
 students = (
     ("Rushi", (85, 90, 78)),
-    ("Devidas", (30, 45, 60)),
+    ("Devidas", (78, 50, 60)),
     ("Pratham", (95, 92, 98)),
-    ("Sneha", (65, 70, 75))
+    ("Sneha", (79, 70, 75))
 )
 
 for name, marks in students:
