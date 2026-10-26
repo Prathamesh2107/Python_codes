@@ -19,9 +19,12 @@ for name, marks in students:
     elif percentage >= 60:
         result = "PASS"
         grade = "B"
-    else:
+    elif percentage >= 45:
         result = "PASS"
         grade = "C"
+    else:
+        result = "PASS"
+        grade = "D"
 
     print(f"\nStudent: {name}")
     print(f"Total: {total}")
