@@ -1,8 +1,8 @@
 courses = {
     "Python": (30, 25),
-    "AWS": (20, 11),
-    "Linux": (15, 10),
-    "Docker": (25, 5)
+    "AWS": (20, 17),
+    "Linux": (15, 13),
+    "Docker": (25, 25)
 }
 
 for course, details in courses.items():
