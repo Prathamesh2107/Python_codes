@@ -8,7 +8,7 @@ students = {
 
 remaining = students.copy()
 
-for rank in range(1, min(3, len(remaining)) + 1):
+for rank in range(1, min(4, len(remaining)) + 1):
     highest_name = None
     highest_marks = None
 
