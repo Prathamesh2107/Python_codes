@@ -1,6 +1,6 @@
 students = {
-    "Amit": 85,
-    "Rahul": 92,
+    "Prathamesh": 85,
+    "Shraddha": 92,
     "Priya": 78,
     "Sneha": 95,
     "Raj": 88
