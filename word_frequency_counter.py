@@ -1,4 +1,4 @@
-sentence = "Python is easy and Python is powerful"
+sentence = "My name is Prathamesh Chormale. My nickname is Bholu"
 
 words = sentence.lower().split()
 frequency = {}
