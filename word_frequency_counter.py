@@ -1,4 +1,4 @@
-sentence = "ram is a good cricketer as well as good teacher."
+sentence = "Prathamesh is a cloud engineer also he is clever employee."
 
 words = sentence.lower().split()
 frequency = {}
