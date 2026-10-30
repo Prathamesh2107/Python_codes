@@ -1,4 +1,4 @@
-sentence = "My name is Prathamesh Chormale. My nickname is Bholu"
+sentence = "ram is a good cricketer as well as good teacher."
 
 words = sentence.lower().split()
 frequency = {}
