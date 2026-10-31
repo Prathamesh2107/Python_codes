@@ -1,7 +1,8 @@
 students = {"Pratham":90,
             "Rohit":84,
             "Virat":98,
-            "Varad":85}
+            "Varad":85,
+            "Sakshi":67}
 while True:
     print("\n--- Student Management ---")
     print("1. Add student")
