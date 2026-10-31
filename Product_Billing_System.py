@@ -1,6 +1,6 @@
 products = {
     "Laptop": (50000, 2),
-    "Mouse": (500, 2),
+    "Mouse": (1200, 2),
     "Keyboard": (1500, 1),
     "Monitor": (10000, 2)
 }
