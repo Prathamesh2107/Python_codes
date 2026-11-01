@@ -1,9 +1,9 @@
 employees = {
-    "Amit": 12000,
-    "Rahul": 25000,
-    "Priya": 45000,
-    "Sneha": 18000,
-    "Raj": -500
+    "Amit": 15000,
+    "Rahul": 35000,
+    "Priya": 55000,
+    "Sneha": -28000,
+    "Raj": 4500
 }
 
 updated_salaries = {}
