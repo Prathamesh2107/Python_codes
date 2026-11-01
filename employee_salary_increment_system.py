@@ -2,7 +2,7 @@ employees = {
     "Amit": 15000,
     "Rahul": 35000,
     "Priya": 55000,
-    "Sneha": -28000,
+    "Sneha": 28000,
     "Raj": 4500
 }
 
@@ -13,9 +13,9 @@ for name, salary in employees.items():
         print(name, "Invalid salary")
         continue
 
-    if salary < 25000:
+    if salary < 15000:
         increment = salary * 0.20
-    elif salary <= 50000:
+    elif salary <= 30000:
         increment = salary * 0.10
     else:
         increment = salary * 0.05
