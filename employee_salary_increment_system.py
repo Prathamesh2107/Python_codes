@@ -13,9 +13,9 @@ for name, salary in employees.items():
         print(name, "Invalid salary")
         continue
 
-    if salary < 15000:
+    if salary < 25000:
         increment = salary * 0.20
-    elif salary <= 30000:
+    elif salary <= 50000:
         increment = salary * 0.10
     else:
         increment = salary * 0.05
