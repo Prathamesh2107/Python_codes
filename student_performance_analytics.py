@@ -1,9 +1,10 @@
 students = {
     "Amit": {"marks": (85, 90, 78), "age": 21},
     "Rahul": {"marks": (80, 45, 60), "age": 22},
-    "Priya": {"marks": (95, 92, 88), "age": 23},
+    "Priya": {"marks": (25, 92, 88), "age": 23},
     "Sneha": {"marks": (95, 92, 95), "age": 21},
-    "Raj": {"marks": (88, 85, 90), "age": 22}
+    "Raj": {"marks": (88, 85, 90), "age": 22},
+    "Prathamesh": {"marks": (95, 96, 98), "age": 22}
 }
 
 results = {}
