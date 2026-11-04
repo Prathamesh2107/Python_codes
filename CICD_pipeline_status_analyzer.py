@@ -1,6 +1,6 @@
 pipelines = {
     "Build": ("Success", 10),
-    "Test": ("Success", 15),
+    "Test": ("Success", 25),
     "Security": ("Failed", 5),
     "Deployment": ("Pending", 0)
 }
