@@ -47,7 +47,7 @@ def return_book(student):
 
 
 issue_book("Python", "Amit")
-issue_book("AWS", "Rahul")
+issue_book("Python", "Rahul")
 
 return_book("Amit")
 
