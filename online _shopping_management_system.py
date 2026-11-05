@@ -1,8 +1,8 @@
 orders = {
     "ORD101": ("Amit", 5000, "Placed"),
-    "ORD102": ("Rahul", 15000, "Shipped"),
+    "ORD102": ("Rahul", 25000, "Cancelled"),
     "ORD103": ("Priya", 25000, "Delivered"),
-    "ORD104": ("Sneha", 8000, "Cancelled")
+    "ORD104": ("Sneha", 8000, "Shipped")
 }
 
 for order_id, details in orders.items():
