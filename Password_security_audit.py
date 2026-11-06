@@ -1,7 +1,7 @@
 users = {
     "Amit": "Hello123!",
     "Rahul": "password",
-    "Priya": "Prat",
+    "Pratham": "Pratham@210704",
     "Sneha": "HELLO123"
 }
 
