@@ -25,6 +25,9 @@ for username, password in users.items():
     if score == 5:
         print("Password: Strong")
 
+    elif score ==4:
+        print("Password: Good")
+
     elif score >= 3:
         print("Password: Medium")
 
