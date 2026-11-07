@@ -1,8 +1,8 @@
 disks = {
-    "/": 85,
-    "/home": 60,
-    "/var": 95,
-    "/backup": 40
+    "/": 55,
+    "/home": 90,
+    "/var": 35,
+    "/backup": 80
 }
 
 for partition, usage in disks.items():
