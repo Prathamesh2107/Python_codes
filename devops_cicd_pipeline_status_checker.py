@@ -1,7 +1,7 @@
 pipeline = {
     "Code": "success",
     "Build": "success",
-    "Test": "success",
+    "Test": "failed",
     "Docker": "success",
     "Deployment": "failed"
 }
