@@ -7,9 +7,9 @@ servers = {
     },
 
     "Database": {
-        "CPU": 95,
-        "Memory": 92,
-        "Disk": 90,
+        "CPU": 55,
+        "Memory": 52,
+        "Disk": 80,
         "Status": "running"
     },
 
