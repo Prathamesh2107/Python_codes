@@ -1,9 +1,9 @@
 servers = {
     "Web-Server": {
-        "CPU": 85,
-        "Memory": 70,
-        "Disk": 60,
-        "Status": "running"
+        "CPU": 25,
+        "Memory": 10,
+        "Disk": 10,
+        "Status": "stopped"
     },
 
     "Database": {
