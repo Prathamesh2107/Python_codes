@@ -3,7 +3,9 @@ ports = {
     80: "HTTP",
     443: "HTTPS",
     3306: "MySQL",
-    8080: "Application"
+    8080: "Application",
+    53: "DNS",
+    67: "DHCP"
 }
 
 port_status = {
@@ -11,7 +13,9 @@ port_status = {
     80: "open",
     443: "open",
     3306: "closed",
-    8080: "open"
+    8080: "open",
+    53: "closed",
+    67: "open"
 }
 
 for port, service in ports.items():
