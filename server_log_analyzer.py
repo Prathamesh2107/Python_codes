@@ -7,9 +7,9 @@ logs = [
     "WARNING Disk usage high"
 ]
 
-error_count = 0
-warning_count = 0
-info_count = 0
+error_count = 2
+warning_count = 3
+info_count = 4
 
 for log in logs:
 
