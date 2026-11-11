@@ -13,5 +13,5 @@ def calculate_storage(used, total):
         print("Error: Please enter numeric values")
 
 
-calculate_storage(800, 1000)
-calculate_storage(500, 0)
+calculate_storage(-93, 100)
+calculate_storage(-298, 7370)
