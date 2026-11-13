@@ -1,6 +1,6 @@
-numbers = [2, 4, 3, 5, 7, 8, 1]
+numbers = [2, 4, 3, 5, 7, 8, 1, 6, 9]
 
-target = 8
+target = 10
 
 for i in range(len(numbers)):
 
