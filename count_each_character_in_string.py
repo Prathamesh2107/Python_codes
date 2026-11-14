@@ -1,4 +1,4 @@
-text = "my name is prathamesh"
+text = "knowledge is the key of success"
 
 frequency = {}
 
