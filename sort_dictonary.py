@@ -2,7 +2,7 @@ marks = {
     "Rahul": 95,
     "Amit": 97,
     "Priya": 98,
-    "Sneha": 80
+    "Sneha": 99
 }
 
 sorted_marks = dict(
