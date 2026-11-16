@@ -1,7 +1,7 @@
 marks = {
-    "Rahul": 85,
-    "Amit": 70,
-    "Priya": 95,
+    "Rahul": 95,
+    "Amit": 97,
+    "Priya": 98,
     "Sneha": 80
 }
 
