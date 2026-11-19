@@ -5,5 +5,5 @@ print(result)
 
 def subtract(a, b):
     return a - b
-result=subtract(b=10, a=5)
+result=subtract(a=10, b=5)
 print(result)
