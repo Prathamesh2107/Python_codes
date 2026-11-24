@@ -1,4 +1,4 @@
-nums = [1, 2, 3, 4]
+nums = [8, 110, 8, 60]
 sum=0
 k=[]
 for i in nums:
