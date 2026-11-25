@@ -1,4 +1,4 @@
-candies = [2, 3, 5, 1, 3]
+candies = [6, 2, 5, 1, 3]
 extraCandies = 3
 
 ans = []
